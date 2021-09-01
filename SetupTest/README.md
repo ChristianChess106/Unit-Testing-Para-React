@@ -1,0 +1,1 @@
+# Tiene que estar en la carpeta setupTests de react obligatorio
